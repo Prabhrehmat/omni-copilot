@@ -291,29 +291,3 @@ omni-copilot/
 4. Push to branch: `git push origin feature-name`
 5. Open a Pull Request
 
-## 📝 License
-
-This project is for educational purposes.
-
-## 👤 Author
-
-**Tamanna Singla**
-- GitHub: [@Tamanna1615](https://github.com/Tamanna1615)
-- Email: tamannasingla793@gmail.com
-
-## 🙏 Acknowledgments
-
-- Groq for AI capabilities
-- Google for API integrations
-- FastAPI and React communities
-
-## 📞 Support
-
-For issues and questions:
-1. Check the documentation files in the repository
-2. Open an issue on GitHub
-3. Contact: tamannasingla793@gmail.com
-
----
-
-**Note**: This is a development project. For production use, additional security measures and error handling should be implemented.
